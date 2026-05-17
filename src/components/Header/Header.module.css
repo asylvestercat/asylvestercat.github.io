@@ -1,0 +1,38 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--background);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 0 2rem;
+}
+
+.nav {
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.navList {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.navLink {
+  font-size: 0.95rem;
+  opacity: 0.6;
+  transition: opacity 0.2s;
+}
+
+.navLink:hover {
+  opacity: 1;
+}
+
+.active {
+  opacity: 1;
+  font-weight: 600;
+}
