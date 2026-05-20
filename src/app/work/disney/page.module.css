@@ -1,0 +1,31 @@
+.laptopWrapper {
+  position: relative;
+  width: 100%;
+  max-width: 840px;
+  margin: 0 auto;
+}
+
+.laptop {
+  display: block;
+  width: 100%;
+}
+
+/* Matches the screen rect in the SVG viewBox (183 157 830 486):
+   x=284.558 y=194.93 w=630.924 h=395.793 */
+.screenContainer {
+  position: absolute;
+  left: 12.24%;
+  top: 7.80%;
+  width: 76.02%;
+  height: 81.44%;
+  overflow: hidden;
+}
+
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}

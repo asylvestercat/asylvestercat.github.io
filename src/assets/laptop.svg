@@ -2,12 +2,6 @@
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="183 157 830 486" xml:space="preserve">
-<defs>
-  <pattern id="screen" patternUnits="userSpaceOnUse" x="284.558" y="194.93" width="630.924" height="395.793">
-    <rect width="630.924" height="395.793" fill="#FFFFFF"/>
-    <image href="/screenshots/baymax-cms-1.png" x="0" y="0" width="10000" height="395.793" preserveAspectRatio="xMinYMin meet"/>
-  </pattern>
-</defs>
 <g id="Graphic_Elements">
 	<g>
 		<g>
@@ -16,8 +10,7 @@
 			<path style="fill:#FFFFFF;stroke:#030303;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
 				M932.761,614.503h-664.71V186.495c0-10.681,8.658-19.339,19.339-19.339h626.032c10.681,0,19.339,8.658,19.339,19.339V614.503z"/>
 		</g>
-		
-		<rect x="284.558" y="194.93" style="fill:url(#screen);stroke:#030303;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" width="630.924" height="395.793"/>
+		<rect x="284.558" y="194.93" style="fill:#FFFFFF;stroke:#030303;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" width="630.924" height="395.793"/>
 		<path style="fill:#FFFFFF;stroke:#030303;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
 			M193.995,614.579v4.827h327.332c3.225,0,6.427,0.459,9.566,1.207c0.369,0.09,0.741,0.169,1.117,0.238v-6.271H193.995z"/>
 		<path style="fill:#FFFFFF;stroke:#030303;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
