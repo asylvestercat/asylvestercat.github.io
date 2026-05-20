@@ -3,29 +3,40 @@
   top: 0;
   z-index: 100;
   background: var(--background);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
   padding: 0 2rem;
 }
 
-.nav {
+.inner {
   max-width: 1200px;
   margin: 0 auto;
-  height: 60px;
+  height: 70px;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: space-between;
 }
 
-.navList {
-  list-style: none;
+.logo {
+  font-family: var(--font-kranky);
+  font-size: 1.2rem;
+  letter-spacing: 0.05em;
+  opacity: 1;
+}
+
+.nav {
   display: flex;
-  gap: 2rem;
+  align-items: center;
+  gap: 2.5rem;
 }
 
 .navLink {
-  font-size: 0.95rem;
-  opacity: 0.6;
+  font-family: var(--font-roboto-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  opacity: 0.5;
   transition: opacity 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
 }
 
 .navLink:hover {
@@ -34,5 +45,70 @@
 
 .active {
   opacity: 1;
-  font-weight: 600;
+}
+
+/* caret triangle */
+.caret {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 5px solid currentColor;
+  transition: transform 0.2s;
+}
+
+/* dropdown wrapper */
+.dropdown {
+  position: relative;
+}
+
+.dropdown:hover .caret {
+  transform: rotate(180deg);
+}
+
+.dropdown:hover .dropdownMenu {
+  opacity: 1;
+  pointer-events: all;
+}
+
+.dropdownMenu {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  min-width: 130px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.18s;
+}
+
+.dropdownMenuInner {
+  background: var(--background);
+  border: 1px solid rgba(128, 128, 128, 0.15);
+  display: flex;
+  flex-direction: column;
+}
+
+.dropdownLink {
+  display: block;
+  padding: 0.7rem 1.2rem;
+  font-family: var(--font-roboto-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  opacity: 0.5;
+  transition: opacity 0.2s;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.1);
+}
+
+.dropdownLink:last-child {
+  border-bottom: none;
+}
+
+.dropdownLink:hover,
+.dropdownLinkActive {
+  opacity: 1;
 }
