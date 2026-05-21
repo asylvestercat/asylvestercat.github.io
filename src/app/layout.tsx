@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
 import { Roboto_Mono, Kranky } from "next/font/google";
 import Header from "@/components/Header/Header";
+import Breadcrumbs from "@/components/Breadcrumbs/Breadcrumbs";
+import Footer from "@/components/Footer/Footer";
 import ThemeToggle from "@/components/ThemeToggle/ThemeToggle";
+import DoodleBackground from "@/components/DoodleBackground/DoodleBackground";
 import "./globals.css";
 
 const robotoMono = Roboto_Mono({
@@ -31,8 +34,11 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{ __html: `(function(){var t=localStorage.getItem('theme');if(t){document.documentElement.setAttribute('data-theme',t);}else if(window.matchMedia('(prefers-color-scheme: light)').matches){document.documentElement.setAttribute('data-theme','light');}})();` }} />
       </head>
       <body>
+        <DoodleBackground />
         <Header />
-        <main>{children}</main>
+        <Breadcrumbs />
+        <main style={{ position: "relative", zIndex: 1 }}>{children}</main>
+        <Footer />
         <ThemeToggle />
       </body>
     </html>

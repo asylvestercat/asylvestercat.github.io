@@ -1,0 +1,46 @@
+.breadcrumbs {
+  position: relative;
+  z-index: 1;
+}
+
+.list {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0.75rem 2rem;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.item {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.link {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  opacity: 0.4;
+  transition: opacity 0.2s;
+}
+
+.link:hover {
+  opacity: 0.8;
+}
+
+.separator {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.72rem;
+  opacity: 0.25;
+}
+
+.current {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  opacity: 0.7;
+}
+

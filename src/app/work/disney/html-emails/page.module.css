@@ -1,0 +1,95 @@
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 4rem 2rem 6rem;
+}
+
+/* ── Email client header ── */
+.emailHeader {
+  border: 1px solid rgba(128, 128, 128, 0.2);
+  margin-bottom: 3rem;
+}
+
+.emailMeta {
+  display: flex;
+  flex-direction: column;
+}
+
+.metaRow {
+  display: flex;
+  align-items: baseline;
+  gap: 1.5rem;
+  padding: 0.85rem 1.5rem;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.1);
+}
+
+.metaRow:last-child {
+  border-bottom: none;
+}
+
+.metaLabel {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  opacity: 0.35;
+  width: 60px;
+  flex-shrink: 0;
+}
+
+.metaValue {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.88rem;
+  opacity: 0.8;
+}
+
+/* ── Source view ── */
+.source {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.line {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+  line-height: 1.6;
+}
+
+/* Indentation levels */
+.indent1 { padding-left: 1.5rem; }
+.indent2 { padding-left: 3rem; }
+.indent3 { padding-left: 4.5rem; }
+.indent4 { padding-left: 6rem; }
+
+/* ── Uniform source font ── */
+.source,
+.source * {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.95rem;
+  line-height: 1.9;
+}
+
+.tag {
+  opacity: 0.3;
+}
+
+.attr {
+  opacity: 0.25;
+}
+
+.attrVal {
+  opacity: 1;
+}
+
+.bold {
+  font-weight: 700;
+  opacity: 1;
+}
+
+@media (min-width: 769px) {
+  .page {
+    padding: 4rem 8rem 6rem;
+  }
+}

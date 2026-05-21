@@ -23,15 +23,15 @@
   margin: 0 auto;
   padding: 4rem 2rem;
   display: grid;
-  grid-template-columns: 400px 1fr;
+  grid-template-columns: 256px 1fr;
   gap: 5rem;
   align-items: start;
 }
 
 .imageWrapper {
   position: relative;
-  width: 100%;
-  aspect-ratio: 3 / 4;
+  width: 256px;
+  height: 256px;
 }
 
 .bio {
@@ -54,6 +54,7 @@
   }
 
   .imageWrapper {
-    max-width: 320px;
+    width: 256px;
+    height: 256px;
   }
 }

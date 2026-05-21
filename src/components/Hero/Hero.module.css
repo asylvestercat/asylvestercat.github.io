@@ -1,10 +1,16 @@
 .hero {
     max-width: 1200px;
-    min-height: 60vh;
+    min-height: 45vh;
     padding: 4rem 2rem;
     align-items: center;
     display: flex;
     margin: auto;
+}
+
+@media (min-width: 769px) {
+    .hero {
+        padding: 4rem 8rem;
+    }
 }
 
 .content {

@@ -1,0 +1,90 @@
+.footer {
+  position: relative;
+  z-index: 1;
+}
+
+.inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 5rem 2rem 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
+}
+
+.resumeBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.15);
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.resumeLabel {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  opacity: 0.55;
+}
+
+.downloadBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-roboto-mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border: 1px solid var(--foreground);
+  padding: 0.6rem 1.25rem;
+  opacity: 0.7;
+  transition: opacity 0.2s, background 0.2s;
+}
+
+.downloadBtn:hover {
+  opacity: 1;
+  background: rgba(128, 128, 128, 0.07);
+}
+
+.heading {
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+}
+
+.sub {
+  font-size: 1rem;
+  opacity: 0.55;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 0.75rem;
+}
+
+.iconLink {
+  display: flex;
+  align-items: center;
+  color: #000000;
+  opacity: 0.6;
+  transition: opacity 0.2s;
+}
+
+.iconLink:hover {
+  opacity: 1;
+}
+
+[data-theme="dark"] .iconLink {
+  color: #ffffff;
+}
+
+@media (min-width: 769px) {
+  .inner {
+    padding: 5rem 8rem 4rem;
+  }
+}

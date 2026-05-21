@@ -5,6 +5,9 @@ export const metadata = { title: "Disney — Work" };
 
 const projects = [
   { label: "Baymax CMS", href: "/work/disney/baymax" },
+  { label: "HTML Emails", href: "/work/disney/html-emails" },
+  { label: "Walt Disney Archives", href: "/work/disney/archives" },
+  { label: "Employee Wellness", href: "/work/disney/employee-wellness" },
 ];
 
 export default function Disney() {

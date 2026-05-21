@@ -13,7 +13,7 @@ export default function Disney() {
           <LaptopSVG className={styles.laptop} />
           <div className={styles.screenContainer}>
             <Image
-              src="/screenshots/baymax-cms-1.png"
+              src="/baymax/baymax-cms-1.png"
               alt="Baymax CMS screenshot"
               fill
               sizes="(max-width: 840px) 76vw, 638px"
@@ -32,7 +32,7 @@ export default function Disney() {
           </div>
           <div className={styles.metaItem}>
             <span className={styles.metaLabel}>Role</span>
-            <span className={styles.metaValue}>Frontend Engineer</span>
+            <span className={styles.metaValue}>Frontend Developer</span>
           </div>
           <div className={styles.metaItem}>
             <span className={styles.metaLabel}>Stack</span>
@@ -221,7 +221,7 @@ export default function Disney() {
 
             <div className={styles.screenshotWrapper}>
               <Image
-                src="/screenshots/baymax-cms-2.png"
+                src="/baymax/baymax-cms-2.png"
                 alt="Baymax CMS page listing — published pages with author, lock, and unpublish controls"
                 width={1600}
                 height={900}

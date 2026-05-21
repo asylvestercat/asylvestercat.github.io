@@ -1,0 +1,2183 @@
+{
+  "total": 198,
+  "doodles": [
+    {
+      "index": 0,
+      "file": "doodle_000.svg",
+      "area": 1503,
+      "original_pos": {
+        "x": 775,
+        "y": 12,
+        "w": 109,
+        "h": 132
+      }
+    },
+    {
+      "index": 1,
+      "file": "doodle_001.svg",
+      "area": 3045,
+      "original_pos": {
+        "x": 1660,
+        "y": 12,
+        "w": 142,
+        "h": 118
+      }
+    },
+    {
+      "index": 2,
+      "file": "doodle_002.svg",
+      "area": 4114,
+      "original_pos": {
+        "x": 577,
+        "y": 13,
+        "w": 178,
+        "h": 183
+      }
+    },
+    {
+      "index": 3,
+      "file": "doodle_003.svg",
+      "area": 5936,
+      "original_pos": {
+        "x": 73,
+        "y": 20,
+        "w": 291,
+        "h": 224
+      }
+    },
+    {
+      "index": 4,
+      "file": "doodle_004.svg",
+      "area": 1237,
+      "original_pos": {
+        "x": 999,
+        "y": 21,
+        "w": 99,
+        "h": 94
+      }
+    },
+    {
+      "index": 5,
+      "file": "doodle_005.svg",
+      "area": 3553,
+      "original_pos": {
+        "x": 1271,
+        "y": 21,
+        "w": 132,
+        "h": 137
+      }
+    },
+    {
+      "index": 6,
+      "file": "doodle_006.svg",
+      "area": 347,
+      "original_pos": {
+        "x": 321,
+        "y": 30,
+        "w": 55,
+        "h": 55
+      }
+    },
+    {
+      "index": 7,
+      "file": "doodle_007.svg",
+      "area": 1331,
+      "original_pos": {
+        "x": 1431,
+        "y": 31,
+        "w": 98,
+        "h": 105
+      }
+    },
+    {
+      "index": 8,
+      "file": "doodle_008.svg",
+      "area": 131,
+      "original_pos": {
+        "x": 364,
+        "y": 36,
+        "w": 47,
+        "h": 47
+      }
+    },
+    {
+      "index": 9,
+      "file": "doodle_009.svg",
+      "area": 1422,
+      "original_pos": {
+        "x": 1112,
+        "y": 36,
+        "w": 82,
+        "h": 118
+      }
+    },
+    {
+      "index": 10,
+      "file": "doodle_010.svg",
+      "area": 1204,
+      "original_pos": {
+        "x": 468,
+        "y": 41,
+        "w": 84,
+        "h": 95
+      }
+    },
+    {
+      "index": 11,
+      "file": "doodle_011.svg",
+      "area": 2639,
+      "original_pos": {
+        "x": 1827,
+        "y": 60,
+        "w": 134,
+        "h": 149
+      }
+    },
+    {
+      "index": 12,
+      "file": "doodle_012.svg",
+      "area": 3549,
+      "original_pos": {
+        "x": 1538,
+        "y": 61,
+        "w": 110,
+        "h": 192
+      }
+    },
+    {
+      "index": 13,
+      "file": "doodle_013.svg",
+      "area": 104,
+      "original_pos": {
+        "x": 341,
+        "y": 69,
+        "w": 45,
+        "h": 45
+      }
+    },
+    {
+      "index": 14,
+      "file": "doodle_014.svg",
+      "area": 1659,
+      "original_pos": {
+        "x": 1177,
+        "y": 72,
+        "w": 93,
+        "h": 126
+      }
+    },
+    {
+      "index": 15,
+      "file": "doodle_015.svg",
+      "area": 140,
+      "original_pos": {
+        "x": 381,
+        "y": 90,
+        "w": 47,
+        "h": 46
+      }
+    },
+    {
+      "index": 16,
+      "file": "doodle_016.svg",
+      "area": 1011,
+      "original_pos": {
+        "x": 924,
+        "y": 91,
+        "w": 61,
+        "h": 131
+      }
+    },
+    {
+      "index": 17,
+      "file": "doodle_017.svg",
+      "area": 1338,
+      "original_pos": {
+        "x": 867,
+        "y": 101,
+        "w": 74,
+        "h": 140
+      }
+    },
+    {
+      "index": 18,
+      "file": "doodle_018.svg",
+      "area": 585,
+      "original_pos": {
+        "x": 963,
+        "y": 119,
+        "w": 61,
+        "h": 94
+      }
+    },
+    {
+      "index": 19,
+      "file": "doodle_019.svg",
+      "area": 2289,
+      "original_pos": {
+        "x": 1689,
+        "y": 130,
+        "w": 121,
+        "h": 112
+      }
+    },
+    {
+      "index": 20,
+      "file": "doodle_020.svg",
+      "area": 2197,
+      "original_pos": {
+        "x": 1358,
+        "y": 132,
+        "w": 133,
+        "h": 147
+      }
+    },
+    {
+      "index": 21,
+      "file": "doodle_021.svg",
+      "area": 1475,
+      "original_pos": {
+        "x": 1050,
+        "y": 136,
+        "w": 122,
+        "h": 117
+      }
+    },
+    {
+      "index": 22,
+      "file": "doodle_022.svg",
+      "area": 596,
+      "original_pos": {
+        "x": 746,
+        "y": 143,
+        "w": 79,
+        "h": 62
+      }
+    },
+    {
+      "index": 23,
+      "file": "doodle_023.svg",
+      "area": 2148,
+      "original_pos": {
+        "x": 398,
+        "y": 159,
+        "w": 193,
+        "h": 72
+      }
+    },
+    {
+      "index": 24,
+      "file": "doodle_024.svg",
+      "area": 1712,
+      "original_pos": {
+        "x": 1939,
+        "y": 194,
+        "w": 62,
+        "h": 136
+      }
+    },
+    {
+      "index": 25,
+      "file": "doodle_025.svg",
+      "area": 2323,
+      "original_pos": {
+        "x": 743,
+        "y": 214,
+        "w": 111,
+        "h": 165
+      }
+    },
+    {
+      "index": 26,
+      "file": "doodle_026.svg",
+      "area": 244,
+      "original_pos": {
+        "x": 1852,
+        "y": 217,
+        "w": 52,
+        "h": 52
+      }
+    },
+    {
+      "index": 27,
+      "file": "doodle_027.svg",
+      "area": 912,
+      "original_pos": {
+        "x": 570,
+        "y": 228,
+        "w": 95,
+        "h": 76
+      }
+    },
+    {
+      "index": 28,
+      "file": "doodle_028.svg",
+      "area": 3295,
+      "original_pos": {
+        "x": 869,
+        "y": 238,
+        "w": 127,
+        "h": 123
+      }
+    },
+    {
+      "index": 29,
+      "file": "doodle_029.svg",
+      "area": 4864,
+      "original_pos": {
+        "x": 1196,
+        "y": 241,
+        "w": 230,
+        "h": 146
+      }
+    },
+    {
+      "index": 30,
+      "file": "doodle_030.svg",
+      "area": 2693,
+      "original_pos": {
+        "x": 66,
+        "y": 243,
+        "w": 270,
+        "h": 70
+      }
+    },
+    {
+      "index": 31,
+      "file": "doodle_031.svg",
+      "area": 1608,
+      "original_pos": {
+        "x": 360,
+        "y": 243,
+        "w": 109,
+        "h": 116
+      }
+    },
+    {
+      "index": 32,
+      "file": "doodle_032.svg",
+      "area": 3476,
+      "original_pos": {
+        "x": 1724,
+        "y": 245,
+        "w": 176,
+        "h": 169
+      }
+    },
+    {
+      "index": 33,
+      "file": "doodle_033.svg",
+      "area": 1072,
+      "original_pos": {
+        "x": 1017,
+        "y": 248,
+        "w": 135,
+        "h": 82
+      }
+    },
+    {
+      "index": 34,
+      "file": "doodle_034.svg",
+      "area": 1601,
+      "original_pos": {
+        "x": 470,
+        "y": 255,
+        "w": 79,
+        "h": 157
+      }
+    },
+    {
+      "index": 35,
+      "file": "doodle_035.svg",
+      "area": 365,
+      "original_pos": {
+        "x": 1622,
+        "y": 270,
+        "w": 59,
+        "h": 53
+      }
+    },
+    {
+      "index": 36,
+      "file": "doodle_036.svg",
+      "area": 3450,
+      "original_pos": {
+        "x": 1461,
+        "y": 276,
+        "w": 127,
+        "h": 160
+      }
+    },
+    {
+      "index": 37,
+      "file": "doodle_037.svg",
+      "area": 2524,
+      "original_pos": {
+        "x": 569,
+        "y": 291,
+        "w": 147,
+        "h": 132
+      }
+    },
+    {
+      "index": 38,
+      "file": "doodle_038.svg",
+      "area": 2032,
+      "original_pos": {
+        "x": 44,
+        "y": 323,
+        "w": 104,
+        "h": 125
+      }
+    },
+    {
+      "index": 39,
+      "file": "doodle_039.svg",
+      "area": 5805,
+      "original_pos": {
+        "x": 149,
+        "y": 326,
+        "w": 306,
+        "h": 254
+      }
+    },
+    {
+      "index": 40,
+      "file": "doodle_040.svg",
+      "area": 1835,
+      "original_pos": {
+        "x": 1645,
+        "y": 332,
+        "w": 87,
+        "h": 127
+      }
+    },
+    {
+      "index": 41,
+      "file": "doodle_041.svg",
+      "area": 7879,
+      "original_pos": {
+        "x": 959,
+        "y": 338,
+        "w": 253,
+        "h": 257
+      }
+    },
+    {
+      "index": 42,
+      "file": "doodle_042.svg",
+      "area": 472,
+      "original_pos": {
+        "x": 928,
+        "y": 363,
+        "w": 66,
+        "h": 70
+      }
+    },
+    {
+      "index": 43,
+      "file": "doodle_043.svg",
+      "area": 3013,
+      "original_pos": {
+        "x": 828,
+        "y": 375,
+        "w": 89,
+        "h": 296
+      }
+    },
+    {
+      "index": 44,
+      "file": "doodle_044.svg",
+      "area": 1019,
+      "original_pos": {
+        "x": 1731,
+        "y": 391,
+        "w": 80,
+        "h": 92
+      }
+    },
+    {
+      "index": 45,
+      "file": "doodle_045.svg",
+      "area": 3130,
+      "original_pos": {
+        "x": 1231,
+        "y": 400,
+        "w": 188,
+        "h": 123
+      }
+    },
+    {
+      "index": 46,
+      "file": "doodle_046.svg",
+      "area": 164,
+      "original_pos": {
+        "x": 709,
+        "y": 407,
+        "w": 59,
+        "h": 41
+      }
+    },
+    {
+      "index": 47,
+      "file": "doodle_047.svg",
+      "area": 207,
+      "original_pos": {
+        "x": 664,
+        "y": 409,
+        "w": 62,
+        "h": 42
+      }
+    },
+    {
+      "index": 48,
+      "file": "doodle_048.svg",
+      "area": 240,
+      "original_pos": {
+        "x": 612,
+        "y": 410,
+        "w": 66,
+        "h": 43
+      }
+    },
+    {
+      "index": 49,
+      "file": "doodle_049.svg",
+      "area": 264,
+      "original_pos": {
+        "x": 560,
+        "y": 414,
+        "w": 69,
+        "h": 43
+      }
+    },
+    {
+      "index": 50,
+      "file": "doodle_050.svg",
+      "area": 201,
+      "original_pos": {
+        "x": 513,
+        "y": 416,
+        "w": 64,
+        "h": 41
+      }
+    },
+    {
+      "index": 51,
+      "file": "doodle_051.svg",
+      "area": 304,
+      "original_pos": {
+        "x": 461,
+        "y": 417,
+        "w": 69,
+        "h": 44
+      }
+    },
+    {
+      "index": 52,
+      "file": "doodle_052.svg",
+      "area": 2191,
+      "original_pos": {
+        "x": 1434,
+        "y": 445,
+        "w": 166,
+        "h": 123
+      }
+    },
+    {
+      "index": 53,
+      "file": "doodle_053.svg",
+      "area": 3295,
+      "original_pos": {
+        "x": 51,
+        "y": 461,
+        "w": 169,
+        "h": 137
+      }
+    },
+    {
+      "index": 54,
+      "file": "doodle_054.svg",
+      "area": 189,
+      "original_pos": {
+        "x": 1695,
+        "y": 462,
+        "w": 49,
+        "h": 48
+      }
+    },
+    {
+      "index": 55,
+      "file": "doodle_055.svg",
+      "area": 4065,
+      "original_pos": {
+        "x": 466,
+        "y": 466,
+        "w": 375,
+        "h": 51
+      }
+    },
+    {
+      "index": 56,
+      "file": "doodle_056.svg",
+      "area": 2343,
+      "original_pos": {
+        "x": 616,
+        "y": 517,
+        "w": 203,
+        "h": 140
+      }
+    },
+    {
+      "index": 57,
+      "file": "doodle_057.svg",
+      "area": 2159,
+      "original_pos": {
+        "x": 430,
+        "y": 519,
+        "w": 107,
+        "h": 132
+      }
+    },
+    {
+      "index": 58,
+      "file": "doodle_058.svg",
+      "area": 200,
+      "original_pos": {
+        "x": 657,
+        "y": 520,
+        "w": 50,
+        "h": 49
+      }
+    },
+    {
+      "index": 59,
+      "file": "doodle_059.svg",
+      "area": 2764,
+      "original_pos": {
+        "x": 1168,
+        "y": 531,
+        "w": 155,
+        "h": 129
+      }
+    },
+    {
+      "index": 60,
+      "file": "doodle_060.svg",
+      "area": 497,
+      "original_pos": {
+        "x": 608,
+        "y": 535,
+        "w": 75,
+        "h": 76
+      }
+    },
+    {
+      "index": 61,
+      "file": "doodle_061.svg",
+      "area": 2989,
+      "original_pos": {
+        "x": 227,
+        "y": 560,
+        "w": 120,
+        "h": 131
+      }
+    },
+    {
+      "index": 62,
+      "file": "doodle_062.svg",
+      "area": 737,
+      "original_pos": {
+        "x": 389,
+        "y": 564,
+        "w": 61,
+        "h": 85
+      }
+    },
+    {
+      "index": 63,
+      "file": "doodle_063.svg",
+      "area": 1239,
+      "original_pos": {
+        "x": 484,
+        "y": 573,
+        "w": 115,
+        "h": 94
+      }
+    },
+    {
+      "index": 64,
+      "file": "doodle_064.svg",
+      "area": 1385,
+      "original_pos": {
+        "x": 941,
+        "y": 587,
+        "w": 81,
+        "h": 102
+      }
+    },
+    {
+      "index": 65,
+      "file": "doodle_065.svg",
+      "area": 2446,
+      "original_pos": {
+        "x": 63,
+        "y": 631,
+        "w": 132,
+        "h": 143
+      }
+    },
+    {
+      "index": 66,
+      "file": "doodle_066.svg",
+      "area": 898,
+      "original_pos": {
+        "x": 503,
+        "y": 631,
+        "w": 97,
+        "h": 62
+      }
+    },
+    {
+      "index": 67,
+      "file": "doodle_067.svg",
+      "area": 1448,
+      "original_pos": {
+        "x": 1010,
+        "y": 642,
+        "w": 90,
+        "h": 99
+      }
+    },
+    {
+      "index": 68,
+      "file": "doodle_068.svg",
+      "area": 5261,
+      "original_pos": {
+        "x": 651,
+        "y": 643,
+        "w": 297,
+        "h": 201
+      }
+    },
+    {
+      "index": 69,
+      "file": "doodle_069.svg",
+      "area": 2327,
+      "original_pos": {
+        "x": 341,
+        "y": 666,
+        "w": 81,
+        "h": 177
+      }
+    },
+    {
+      "index": 70,
+      "file": "doodle_070.svg",
+      "area": 1328,
+      "original_pos": {
+        "x": 1126,
+        "y": 671,
+        "w": 91,
+        "h": 120
+      }
+    },
+    {
+      "index": 71,
+      "file": "doodle_071.svg",
+      "area": 260,
+      "original_pos": {
+        "x": 176,
+        "y": 677,
+        "w": 46,
+        "h": 69
+      }
+    },
+    {
+      "index": 72,
+      "file": "doodle_072.svg",
+      "area": 3003,
+      "original_pos": {
+        "x": 452,
+        "y": 696,
+        "w": 89,
+        "h": 261
+      }
+    },
+    {
+      "index": 73,
+      "file": "doodle_073.svg",
+      "area": 901,
+      "original_pos": {
+        "x": 571,
+        "y": 711,
+        "w": 62,
+        "h": 135
+      }
+    },
+    {
+      "index": 74,
+      "file": "doodle_074.svg",
+      "area": 1327,
+      "original_pos": {
+        "x": 284,
+        "y": 714,
+        "w": 73,
+        "h": 128
+      }
+    },
+    {
+      "index": 75,
+      "file": "doodle_075.svg",
+      "area": 3182,
+      "original_pos": {
+        "x": 961,
+        "y": 760,
+        "w": 142,
+        "h": 129
+      }
+    },
+    {
+      "index": 76,
+      "file": "doodle_076.svg",
+      "area": 3345,
+      "original_pos": {
+        "x": 94,
+        "y": 783,
+        "w": 112,
+        "h": 144
+      }
+    },
+    {
+      "index": 77,
+      "file": "doodle_077.svg",
+      "area": 268,
+      "original_pos": {
+        "x": 69,
+        "y": 798,
+        "w": 61,
+        "h": 59
+      }
+    },
+    {
+      "index": 78,
+      "file": "doodle_078.svg",
+      "area": 296,
+      "original_pos": {
+        "x": 749,
+        "y": 837,
+        "w": 53,
+        "h": 54
+      }
+    },
+    {
+      "index": 79,
+      "file": "doodle_079.svg",
+      "area": 1846,
+      "original_pos": {
+        "x": 1111,
+        "y": 841,
+        "w": 97,
+        "h": 111
+      }
+    },
+    {
+      "index": 80,
+      "file": "doodle_080.svg",
+      "area": 226,
+      "original_pos": {
+        "x": 188,
+        "y": 842,
+        "w": 50,
+        "h": 60
+      }
+    },
+    {
+      "index": 81,
+      "file": "doodle_081.svg",
+      "area": 3693,
+      "original_pos": {
+        "x": 544,
+        "y": 854,
+        "w": 163,
+        "h": 153
+      }
+    },
+    {
+      "index": 82,
+      "file": "doodle_082.svg",
+      "area": 2887,
+      "original_pos": {
+        "x": 314,
+        "y": 867,
+        "w": 102,
+        "h": 170
+      }
+    },
+    {
+      "index": 83,
+      "file": "doodle_083.svg",
+      "area": 2311,
+      "original_pos": {
+        "x": 907,
+        "y": 877,
+        "w": 68,
+        "h": 241
+      }
+    },
+    {
+      "index": 84,
+      "file": "doodle_084.svg",
+      "area": 618,
+      "original_pos": {
+        "x": 716,
+        "y": 882,
+        "w": 66,
+        "h": 67
+      }
+    },
+    {
+      "index": 85,
+      "file": "doodle_085.svg",
+      "area": 122,
+      "original_pos": {
+        "x": 1842,
+        "y": 882,
+        "w": 45,
+        "h": 47
+      }
+    },
+    {
+      "index": 86,
+      "file": "doodle_086.svg",
+      "area": 172,
+      "original_pos": {
+        "x": 93,
+        "y": 890,
+        "w": 47,
+        "h": 54
+      }
+    },
+    {
+      "index": 87,
+      "file": "doodle_087.svg",
+      "area": 400,
+      "original_pos": {
+        "x": 1345,
+        "y": 899,
+        "w": 58,
+        "h": 59
+      }
+    },
+    {
+      "index": 88,
+      "file": "doodle_088.svg",
+      "area": 4661,
+      "original_pos": {
+        "x": 77,
+        "y": 902,
+        "w": 235,
+        "h": 217
+      }
+    },
+    {
+      "index": 89,
+      "file": "doodle_089.svg",
+      "area": 211,
+      "original_pos": {
+        "x": 800,
+        "y": 908,
+        "w": 50,
+        "h": 51
+      }
+    },
+    {
+      "index": 90,
+      "file": "doodle_090.svg",
+      "area": 2919,
+      "original_pos": {
+        "x": 1006,
+        "y": 910,
+        "w": 126,
+        "h": 154
+      }
+    },
+    {
+      "index": 91,
+      "file": "doodle_091.svg",
+      "area": 114,
+      "original_pos": {
+        "x": 848,
+        "y": 918,
+        "w": 47,
+        "h": 44
+      }
+    },
+    {
+      "index": 92,
+      "file": "doodle_092.svg",
+      "area": 396,
+      "original_pos": {
+        "x": 1842,
+        "y": 923,
+        "w": 58,
+        "h": 57
+      }
+    },
+    {
+      "index": 93,
+      "file": "doodle_093.svg",
+      "area": 385,
+      "original_pos": {
+        "x": 757,
+        "y": 933,
+        "w": 56,
+        "h": 58
+      }
+    },
+    {
+      "index": 94,
+      "file": "doodle_094.svg",
+      "area": 128,
+      "original_pos": {
+        "x": 1372,
+        "y": 938,
+        "w": 45,
+        "h": 48
+      }
+    },
+    {
+      "index": 95,
+      "file": "doodle_095.svg",
+      "area": 2790,
+      "original_pos": {
+        "x": 1438,
+        "y": 939,
+        "w": 357,
+        "h": 44
+      }
+    },
+    {
+      "index": 96,
+      "file": "doodle_096.svg",
+      "area": 5219,
+      "original_pos": {
+        "x": 1216,
+        "y": 943,
+        "w": 284,
+        "h": 153
+      }
+    },
+    {
+      "index": 97,
+      "file": "doodle_097.svg",
+      "area": 1630,
+      "original_pos": {
+        "x": 1462,
+        "y": 967,
+        "w": 314,
+        "h": 42
+      }
+    },
+    {
+      "index": 98,
+      "file": "doodle_098.svg",
+      "area": 3053,
+      "original_pos": {
+        "x": 755,
+        "y": 980,
+        "w": 140,
+        "h": 139
+      }
+    },
+    {
+      "index": 99,
+      "file": "doodle_099.svg",
+      "area": 1810,
+      "original_pos": {
+        "x": 1121,
+        "y": 980,
+        "w": 96,
+        "h": 118
+      }
+    },
+    {
+      "index": 100,
+      "file": "doodle_100.svg",
+      "area": 2056,
+      "original_pos": {
+        "x": 1771,
+        "y": 981,
+        "w": 108,
+        "h": 112
+      }
+    },
+    {
+      "index": 101,
+      "file": "doodle_101.svg",
+      "area": 3846,
+      "original_pos": {
+        "x": 377,
+        "y": 1030,
+        "w": 378,
+        "h": 75
+      }
+    },
+    {
+      "index": 102,
+      "file": "doodle_102.svg",
+      "area": 369,
+      "original_pos": {
+        "x": 1564,
+        "y": 1031,
+        "w": 57,
+        "h": 56
+      }
+    },
+    {
+      "index": 103,
+      "file": "doodle_103.svg",
+      "area": 318,
+      "original_pos": {
+        "x": 1618,
+        "y": 1032,
+        "w": 55,
+        "h": 55
+      }
+    },
+    {
+      "index": 104,
+      "file": "doodle_104.svg",
+      "area": 365,
+      "original_pos": {
+        "x": 1671,
+        "y": 1032,
+        "w": 57,
+        "h": 55
+      }
+    },
+    {
+      "index": 105,
+      "file": "doodle_105.svg",
+      "area": 2011,
+      "original_pos": {
+        "x": 707,
+        "y": 1162,
+        "w": 141,
+        "h": 171
+      }
+    },
+    {
+      "index": 106,
+      "file": "doodle_106.svg",
+      "area": 736,
+      "original_pos": {
+        "x": 182,
+        "y": 1168,
+        "w": 101,
+        "h": 73
+      }
+    },
+    {
+      "index": 107,
+      "file": "doodle_107.svg",
+      "area": 1109,
+      "original_pos": {
+        "x": 1428,
+        "y": 1180,
+        "w": 64,
+        "h": 102
+      }
+    },
+    {
+      "index": 108,
+      "file": "doodle_108.svg",
+      "area": 2433,
+      "original_pos": {
+        "x": 1701,
+        "y": 1181,
+        "w": 135,
+        "h": 140
+      }
+    },
+    {
+      "index": 109,
+      "file": "doodle_109.svg",
+      "area": 4614,
+      "original_pos": {
+        "x": 1109,
+        "y": 1186,
+        "w": 152,
+        "h": 163
+      }
+    },
+    {
+      "index": 110,
+      "file": "doodle_110.svg",
+      "area": 594,
+      "original_pos": {
+        "x": 562,
+        "y": 1188,
+        "w": 59,
+        "h": 114
+      }
+    },
+    {
+      "index": 111,
+      "file": "doodle_111.svg",
+      "area": 4529,
+      "original_pos": {
+        "x": 374,
+        "y": 1191,
+        "w": 208,
+        "h": 125
+      }
+    },
+    {
+      "index": 112,
+      "file": "doodle_112.svg",
+      "area": 912,
+      "original_pos": {
+        "x": 1480,
+        "y": 1191,
+        "w": 65,
+        "h": 88
+      }
+    },
+    {
+      "index": 113,
+      "file": "doodle_113.svg",
+      "area": 2006,
+      "original_pos": {
+        "x": 63,
+        "y": 1199,
+        "w": 112,
+        "h": 146
+      }
+    },
+    {
+      "index": 114,
+      "file": "doodle_114.svg",
+      "area": 1068,
+      "original_pos": {
+        "x": 1370,
+        "y": 1210,
+        "w": 84,
+        "h": 89
+      }
+    },
+    {
+      "index": 115,
+      "file": "doodle_115.svg",
+      "area": 2010,
+      "original_pos": {
+        "x": 940,
+        "y": 1227,
+        "w": 128,
+        "h": 163
+      }
+    },
+    {
+      "index": 116,
+      "file": "doodle_116.svg",
+      "area": 1218,
+      "original_pos": {
+        "x": 790,
+        "y": 1244,
+        "w": 111,
+        "h": 137
+      }
+    },
+    {
+      "index": 117,
+      "file": "doodle_117.svg",
+      "area": 1057,
+      "original_pos": {
+        "x": 157,
+        "y": 1278,
+        "w": 83,
+        "h": 101
+      }
+    },
+    {
+      "index": 118,
+      "file": "doodle_118.svg",
+      "area": 2945,
+      "original_pos": {
+        "x": 1212,
+        "y": 1290,
+        "w": 120,
+        "h": 122
+      }
+    },
+    {
+      "index": 119,
+      "file": "doodle_119.svg",
+      "area": 527,
+      "original_pos": {
+        "x": 1601,
+        "y": 1291,
+        "w": 78,
+        "h": 69
+      }
+    },
+    {
+      "index": 120,
+      "file": "doodle_120.svg",
+      "area": 6341,
+      "original_pos": {
+        "x": 1403,
+        "y": 1322,
+        "w": 278,
+        "h": 142
+      }
+    },
+    {
+      "index": 121,
+      "file": "doodle_121.svg",
+      "area": 1031,
+      "original_pos": {
+        "x": 88,
+        "y": 1344,
+        "w": 86,
+        "h": 92
+      }
+    },
+    {
+      "index": 122,
+      "file": "doodle_122.svg",
+      "area": 2474,
+      "original_pos": {
+        "x": 1860,
+        "y": 1361,
+        "w": 78,
+        "h": 133
+      }
+    },
+    {
+      "index": 123,
+      "file": "doodle_123.svg",
+      "area": 3387,
+      "original_pos": {
+        "x": 407,
+        "y": 1372,
+        "w": 150,
+        "h": 164
+      }
+    },
+    {
+      "index": 124,
+      "file": "doodle_124.svg",
+      "area": 2276,
+      "original_pos": {
+        "x": 605,
+        "y": 1387,
+        "w": 180,
+        "h": 188
+      }
+    },
+    {
+      "index": 125,
+      "file": "doodle_125.svg",
+      "area": 2189,
+      "original_pos": {
+        "x": 1077,
+        "y": 1416,
+        "w": 112,
+        "h": 133
+      }
+    },
+    {
+      "index": 126,
+      "file": "doodle_126.svg",
+      "area": 503,
+      "original_pos": {
+        "x": 1678,
+        "y": 1458,
+        "w": 61,
+        "h": 72
+      }
+    },
+    {
+      "index": 127,
+      "file": "doodle_127.svg",
+      "area": 4805,
+      "original_pos": {
+        "x": 832,
+        "y": 1461,
+        "w": 174,
+        "h": 193
+      }
+    },
+    {
+      "index": 128,
+      "file": "doodle_128.svg",
+      "area": 636,
+      "original_pos": {
+        "x": 288,
+        "y": 1469,
+        "w": 58,
+        "h": 77
+      }
+    },
+    {
+      "index": 129,
+      "file": "doodle_129.svg",
+      "area": 518,
+      "original_pos": {
+        "x": 1727,
+        "y": 1469,
+        "w": 64,
+        "h": 71
+      }
+    },
+    {
+      "index": 130,
+      "file": "doodle_130.svg",
+      "area": 641,
+      "original_pos": {
+        "x": 245,
+        "y": 1471,
+        "w": 61,
+        "h": 72
+      }
+    },
+    {
+      "index": 131,
+      "file": "doodle_131.svg",
+      "area": 686,
+      "original_pos": {
+        "x": 684,
+        "y": 1477,
+        "w": 95,
+        "h": 104
+      }
+    },
+    {
+      "index": 132,
+      "file": "doodle_132.svg",
+      "area": 1687,
+      "original_pos": {
+        "x": 1178,
+        "y": 1492,
+        "w": 100,
+        "h": 112
+      }
+    },
+    {
+      "index": 133,
+      "file": "doodle_133.svg",
+      "area": 687,
+      "original_pos": {
+        "x": 117,
+        "y": 1496,
+        "w": 61,
+        "h": 119
+      }
+    },
+    {
+      "index": 134,
+      "file": "doodle_134.svg",
+      "area": 1325,
+      "original_pos": {
+        "x": 1359,
+        "y": 1512,
+        "w": 83,
+        "h": 91
+      }
+    },
+    {
+      "index": 135,
+      "file": "doodle_135.svg",
+      "area": 433,
+      "original_pos": {
+        "x": 1691,
+        "y": 1524,
+        "w": 67,
+        "h": 64
+      }
+    },
+    {
+      "index": 136,
+      "file": "doodle_136.svg",
+      "area": 598,
+      "original_pos": {
+        "x": 49,
+        "y": 1534,
+        "w": 93,
+        "h": 86
+      }
+    },
+    {
+      "index": 137,
+      "file": "doodle_137.svg",
+      "area": 960,
+      "original_pos": {
+        "x": 1431,
+        "y": 1540,
+        "w": 71,
+        "h": 84
+      }
+    },
+    {
+      "index": 138,
+      "file": "doodle_138.svg",
+      "area": 646,
+      "original_pos": {
+        "x": 1921,
+        "y": 1566,
+        "w": 60,
+        "h": 95
+      }
+    },
+    {
+      "index": 139,
+      "file": "doodle_139.svg",
+      "area": 556,
+      "original_pos": {
+        "x": 17,
+        "y": 1594,
+        "w": 106,
+        "h": 55
+      }
+    },
+    {
+      "index": 140,
+      "file": "doodle_140.svg",
+      "area": 985,
+      "original_pos": {
+        "x": 1377,
+        "y": 1603,
+        "w": 78,
+        "h": 82
+      }
+    },
+    {
+      "index": 141,
+      "file": "doodle_141.svg",
+      "area": 1025,
+      "original_pos": {
+        "x": 470,
+        "y": 1609,
+        "w": 128,
+        "h": 119
+      }
+    },
+    {
+      "index": 142,
+      "file": "doodle_142.svg",
+      "area": 604,
+      "original_pos": {
+        "x": 357,
+        "y": 1611,
+        "w": 48,
+        "h": 112
+      }
+    },
+    {
+      "index": 143,
+      "file": "doodle_143.svg",
+      "area": 4260,
+      "original_pos": {
+        "x": 1449,
+        "y": 1612,
+        "w": 211,
+        "h": 190
+      }
+    },
+    {
+      "index": 144,
+      "file": "doodle_144.svg",
+      "area": 4324,
+      "original_pos": {
+        "x": 995,
+        "y": 1614,
+        "w": 199,
+        "h": 129
+      }
+    },
+    {
+      "index": 145,
+      "file": "doodle_145.svg",
+      "area": 135,
+      "original_pos": {
+        "x": 1943,
+        "y": 1642,
+        "w": 47,
+        "h": 46
+      }
+    },
+    {
+      "index": 146,
+      "file": "doodle_146.svg",
+      "area": 251,
+      "original_pos": {
+        "x": 1759,
+        "y": 1650,
+        "w": 51,
+        "h": 51
+      }
+    },
+    {
+      "index": 147,
+      "file": "doodle_147.svg",
+      "area": 276,
+      "original_pos": {
+        "x": 1719,
+        "y": 1651,
+        "w": 53,
+        "h": 52
+      }
+    },
+    {
+      "index": 148,
+      "file": "doodle_148.svg",
+      "area": 247,
+      "original_pos": {
+        "x": 1794,
+        "y": 1651,
+        "w": 51,
+        "h": 51
+      }
+    },
+    {
+      "index": 149,
+      "file": "doodle_149.svg",
+      "area": 6434,
+      "original_pos": {
+        "x": 112,
+        "y": 1652,
+        "w": 263,
+        "h": 139
+      }
+    },
+    {
+      "index": 150,
+      "file": "doodle_150.svg",
+      "area": 307,
+      "original_pos": {
+        "x": 1827,
+        "y": 1652,
+        "w": 53,
+        "h": 53
+      }
+    },
+    {
+      "index": 151,
+      "file": "doodle_151.svg",
+      "area": 2684,
+      "original_pos": {
+        "x": 712,
+        "y": 1654,
+        "w": 223,
+        "h": 112
+      }
+    },
+    {
+      "index": 152,
+      "file": "doodle_152.svg",
+      "area": 656,
+      "original_pos": {
+        "x": 553,
+        "y": 1679,
+        "w": 94,
+        "h": 97
+      }
+    },
+    {
+      "index": 153,
+      "file": "doodle_153.svg",
+      "area": 1595,
+      "original_pos": {
+        "x": 1166,
+        "y": 1701,
+        "w": 123,
+        "h": 121
+      }
+    },
+    {
+      "index": 154,
+      "file": "doodle_154.svg",
+      "area": 751,
+      "original_pos": {
+        "x": 442,
+        "y": 1719,
+        "w": 108,
+        "h": 103
+      }
+    },
+    {
+      "index": 155,
+      "file": "doodle_155.svg",
+      "area": 3221,
+      "original_pos": {
+        "x": 1657,
+        "y": 1746,
+        "w": 172,
+        "h": 134
+      }
+    },
+    {
+      "index": 156,
+      "file": "doodle_156.svg",
+      "area": 1566,
+      "original_pos": {
+        "x": 977,
+        "y": 1780,
+        "w": 78,
+        "h": 119
+      }
+    },
+    {
+      "index": 157,
+      "file": "doodle_157.svg",
+      "area": 1477,
+      "original_pos": {
+        "x": 786,
+        "y": 1833,
+        "w": 53,
+        "h": 150
+      }
+    },
+    {
+      "index": 158,
+      "file": "doodle_158.svg",
+      "area": 3148,
+      "original_pos": {
+        "x": 297,
+        "y": 1838,
+        "w": 130,
+        "h": 232
+      }
+    },
+    {
+      "index": 159,
+      "file": "doodle_159.svg",
+      "area": 1391,
+      "original_pos": {
+        "x": 818,
+        "y": 1842,
+        "w": 60,
+        "h": 147
+      }
+    },
+    {
+      "index": 160,
+      "file": "doodle_160.svg",
+      "area": 1499,
+      "original_pos": {
+        "x": 647,
+        "y": 1843,
+        "w": 82,
+        "h": 108
+      }
+    },
+    {
+      "index": 161,
+      "file": "doodle_161.svg",
+      "area": 4692,
+      "original_pos": {
+        "x": 1125,
+        "y": 1848,
+        "w": 383,
+        "h": 64
+      }
+    },
+    {
+      "index": 162,
+      "file": "doodle_162.svg",
+      "area": 1058,
+      "original_pos": {
+        "x": 129,
+        "y": 1850,
+        "w": 76,
+        "h": 91
+      }
+    },
+    {
+      "index": 163,
+      "file": "doodle_163.svg",
+      "area": 1570,
+      "original_pos": {
+        "x": 535,
+        "y": 1876,
+        "w": 92,
+        "h": 108
+      }
+    },
+    {
+      "index": 164,
+      "file": "doodle_164.svg",
+      "area": 952,
+      "original_pos": {
+        "x": 1530,
+        "y": 1896,
+        "w": 138,
+        "h": 87
+      }
+    },
+    {
+      "index": 165,
+      "file": "doodle_165.svg",
+      "area": 1352,
+      "original_pos": {
+        "x": 68,
+        "y": 1899,
+        "w": 79,
+        "h": 100
+      }
+    },
+    {
+      "index": 166,
+      "file": "doodle_166.svg",
+      "area": 1591,
+      "original_pos": {
+        "x": 134,
+        "y": 1941,
+        "w": 89,
+        "h": 103
+      }
+    },
+    {
+      "index": 167,
+      "file": "doodle_167.svg",
+      "area": 747,
+      "original_pos": {
+        "x": 1114,
+        "y": 1947,
+        "w": 56,
+        "h": 94
+      }
+    },
+    {
+      "index": 168,
+      "file": "doodle_168.svg",
+      "area": 3878,
+      "original_pos": {
+        "x": 1258,
+        "y": 1954,
+        "w": 223,
+        "h": 138
+      }
+    },
+    {
+      "index": 169,
+      "file": "doodle_169.svg",
+      "area": 1050,
+      "original_pos": {
+        "x": 1049,
+        "y": 1955,
+        "w": 82,
+        "h": 89
+      }
+    },
+    {
+      "index": 170,
+      "file": "doodle_170.svg",
+      "area": 1515,
+      "original_pos": {
+        "x": 611,
+        "y": 1960,
+        "w": 84,
+        "h": 104
+      }
+    },
+    {
+      "index": 171,
+      "file": "doodle_171.svg",
+      "area": 552,
+      "original_pos": {
+        "x": 1811,
+        "y": 2010,
+        "w": 47,
+        "h": 100
+      }
+    },
+    {
+      "index": 172,
+      "file": "doodle_172.svg",
+      "area": 888,
+      "original_pos": {
+        "x": 1014,
+        "y": 2012,
+        "w": 91,
+        "h": 64
+      }
+    },
+    {
+      "index": 173,
+      "file": "doodle_173.svg",
+      "area": 3503,
+      "original_pos": {
+        "x": 1545,
+        "y": 2016,
+        "w": 104,
+        "h": 219
+      }
+    },
+    {
+      "index": 174,
+      "file": "doodle_174.svg",
+      "area": 1033,
+      "original_pos": {
+        "x": 1730,
+        "y": 2019,
+        "w": 100,
+        "h": 117
+      }
+    },
+    {
+      "index": 175,
+      "file": "doodle_175.svg",
+      "area": 285,
+      "original_pos": {
+        "x": 870,
+        "y": 2030,
+        "w": 53,
+        "h": 54
+      }
+    },
+    {
+      "index": 176,
+      "file": "doodle_176.svg",
+      "area": 3227,
+      "original_pos": {
+        "x": 441,
+        "y": 2038,
+        "w": 155,
+        "h": 125
+      }
+    },
+    {
+      "index": 177,
+      "file": "doodle_177.svg",
+      "area": 1233,
+      "original_pos": {
+        "x": 894,
+        "y": 2063,
+        "w": 78,
+        "h": 106
+      }
+    },
+    {
+      "index": 178,
+      "file": "doodle_178.svg",
+      "area": 1632,
+      "original_pos": {
+        "x": 836,
+        "y": 2103,
+        "w": 87,
+        "h": 132
+      }
+    },
+    {
+      "index": 179,
+      "file": "doodle_179.svg",
+      "area": 612,
+      "original_pos": {
+        "x": 204,
+        "y": 2104,
+        "w": 55,
+        "h": 119
+      }
+    },
+    {
+      "index": 180,
+      "file": "doodle_180.svg",
+      "area": 1171,
+      "original_pos": {
+        "x": 1165,
+        "y": 2107,
+        "w": 61,
+        "h": 111
+      }
+    },
+    {
+      "index": 181,
+      "file": "doodle_181.svg",
+      "area": 1918,
+      "original_pos": {
+        "x": 1916,
+        "y": 2107,
+        "w": 105,
+        "h": 128
+      }
+    },
+    {
+      "index": 182,
+      "file": "doodle_182.svg",
+      "area": 582,
+      "original_pos": {
+        "x": 1693,
+        "y": 2109,
+        "w": 108,
+        "h": 58
+      }
+    },
+    {
+      "index": 183,
+      "file": "doodle_183.svg",
+      "area": 487,
+      "original_pos": {
+        "x": 804,
+        "y": 2115,
+        "w": 59,
+        "h": 62
+      }
+    },
+    {
+      "index": 184,
+      "file": "doodle_184.svg",
+      "area": 1296,
+      "original_pos": {
+        "x": 1091,
+        "y": 2120,
+        "w": 87,
+        "h": 106
+      }
+    },
+    {
+      "index": 185,
+      "file": "doodle_185.svg",
+      "area": 747,
+      "original_pos": {
+        "x": 157,
+        "y": 2121,
+        "w": 54,
+        "h": 108
+      }
+    },
+    {
+      "index": 187,
+      "file": "doodle_187.svg",
+      "area": 279,
+      "original_pos": {
+        "x": 667,
+        "y": 2132,
+        "w": 46,
+        "h": 69
+      }
+    },
+    {
+      "index": 188,
+      "file": "doodle_188.svg",
+      "area": 273,
+      "original_pos": {
+        "x": 611,
+        "y": 2149,
+        "w": 59,
+        "h": 60
+      }
+    },
+    {
+      "index": 189,
+      "file": "doodle_189.svg",
+      "area": 3037,
+      "original_pos": {
+        "x": 302,
+        "y": 2151,
+        "w": 165,
+        "h": 135
+      }
+    },
+    {
+      "index": 190,
+      "file": "doodle_190.svg",
+      "area": 794,
+      "original_pos": {
+        "x": 1388,
+        "y": 2160,
+        "w": 80,
+        "h": 67
+      }
+    },
+    {
+      "index": 191,
+      "file": "doodle_191.svg",
+      "area": 858,
+      "original_pos": {
+        "x": 1785,
+        "y": 2172,
+        "w": 62,
+        "h": 116
+      }
+    },
+    {
+      "index": 192,
+      "file": "doodle_192.svg",
+      "area": 198,
+      "original_pos": {
+        "x": 698,
+        "y": 2182,
+        "w": 60,
+        "h": 47
+      }
+    },
+    {
+      "index": 193,
+      "file": "doodle_193.svg",
+      "area": 989,
+      "original_pos": {
+        "x": 1748,
+        "y": 2187,
+        "w": 71,
+        "h": 112
+      }
+    },
+    {
+      "index": 194,
+      "file": "doodle_194.svg",
+      "area": 2072,
+      "original_pos": {
+        "x": 584,
+        "y": 2190,
+        "w": 160,
+        "h": 113
+      }
+    },
+    {
+      "index": 195,
+      "file": "doodle_195.svg",
+      "area": 1053,
+      "original_pos": {
+        "x": 1057,
+        "y": 2190,
+        "w": 100,
+        "h": 71
+      }
+    },
+    {
+      "index": 196,
+      "file": "doodle_196.svg",
+      "area": 351,
+      "original_pos": {
+        "x": 894,
+        "y": 2209,
+        "w": 54,
+        "h": 57
+      }
+    },
+    {
+      "index": 197,
+      "file": "doodle_197.svg",
+      "area": 814,
+      "original_pos": {
+        "x": 1317,
+        "y": 2211,
+        "w": 80,
+        "h": 72
+      }
+    },
+    {
+      "index": 198,
+      "file": "doodle_198.svg",
+      "area": 846,
+      "original_pos": {
+        "x": 1385,
+        "y": 2220,
+        "w": 74,
+        "h": 72
+      }
+    }
+  ]
+}
