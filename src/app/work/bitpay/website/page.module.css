@@ -1,0 +1,299 @@
+/* ── Hero ── */
+.laptopWrapper {
+  position: relative;
+  width: 100%;
+  max-width: 840px;
+  margin: 0 auto;
+}
+
+.laptop {
+  display: block;
+  width: 100%;
+}
+
+.screenContainer {
+  position: absolute;
+  left: 12.24%;
+  top: 7.80%;
+  width: 76.02%;
+  height: 81.44%;
+  overflow: hidden;
+}
+
+/* ── Project meta bar ── */
+.meta {
+  border-top: 1px solid rgba(128, 128, 128, 0.15);
+  border-bottom: 1px solid rgba(128, 128, 128, 0.15);
+}
+
+.metaInner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 2rem;
+}
+
+.metaItem {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.metaLabel {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.4;
+}
+
+.metaValue {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.metaLink {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.85rem;
+  line-height: 1.5;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  opacity: 0.7;
+}
+
+.metaLink:hover {
+  opacity: 1;
+}
+
+/* ── Shared section layout ── */
+.section {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.1);
+}
+
+.sectionInner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 5rem 2rem;
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  gap: 4rem;
+  align-items: start;
+}
+
+.sectionLabel {
+  font-family: var(--font-kranky);
+  font-size: 3rem;
+  opacity: 0.7;
+  line-height: 1;
+  padding-top: 0.25rem;
+}
+
+.sectionContent {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.sectionTitle {
+  font-size: clamp(1.8rem, 3vw, 2.5rem);
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.sectionContent p {
+  font-size: 1rem;
+  line-height: 1.8;
+  opacity: 0.75;
+  max-width: 70ch;
+}
+
+.lead {
+  font-size: 1.15rem !important;
+  opacity: 0.9 !important;
+  line-height: 1.7 !important;
+}
+
+.sectionContent :global(code) {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.85em;
+  background: rgba(128, 128, 128, 0.1);
+  padding: 0.1em 0.35em;
+  border-radius: 3px;
+}
+
+/* ── Callout ── */
+.callout {
+  border-left: 3px solid var(--foreground);
+  padding: 1.25rem 1.5rem;
+  font-family: var(--font-roboto-mono);
+  font-size: 0.9rem;
+  line-height: 1.7;
+  opacity: 0.8;
+  background: rgba(128, 128, 128, 0.04);
+}
+
+/* ── Steps ── */
+.steps {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  border: 1px solid rgba(128, 128, 128, 0.15);
+}
+
+.step {
+  display: flex;
+  gap: 2rem;
+  padding: 1.75rem;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.1);
+  align-items: flex-start;
+}
+
+.step:last-child {
+  border-bottom: none;
+}
+
+.stepNum {
+  font-family: var(--font-kranky);
+  font-size: 2rem;
+  opacity: 0.2;
+  flex-shrink: 0;
+  line-height: 1;
+  width: 2rem;
+  text-align: center;
+}
+
+.stepTitle {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.step p {
+  font-size: 0.9rem !important;
+  line-height: 1.7 !important;
+  opacity: 0.7 !important;
+  max-width: none !important;
+}
+
+/* ── Stat callout ── */
+.statRow {
+  display: flex;
+  gap: 4rem;
+  padding: 2rem 0;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.statNumber {
+  font-family: var(--font-kranky);
+  font-size: clamp(3.5rem, 6vw, 6rem);
+  line-height: 1;
+}
+
+.statLabel {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  opacity: 0.5;
+}
+
+/* ── Screenshot ── */
+.screenshotWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.screenshot {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid var(--foreground);
+}
+
+.caption {
+  font-size: 0.82rem !important;
+  line-height: 1.7 !important;
+  opacity: 0.5 !important;
+  font-style: italic;
+  max-width: none !important;
+}
+
+/* ── Scale table ── */
+.scaleTable {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  border: 1px solid rgba(128, 128, 128, 0.15);
+}
+
+.scaleRow {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 2rem;
+  padding: 1.25rem 1.5rem;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.1);
+  align-items: start;
+}
+
+.scaleRow:last-child {
+  border-bottom: none;
+}
+
+.scaleItem {
+  font-family: var(--font-roboto-mono);
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding-top: 0.1rem;
+}
+
+.scaleDesc {
+  font-size: 0.9rem;
+  line-height: 1.7;
+  opacity: 0.7;
+}
+
+/* ── Responsive ── */
+@media (max-width: 900px) {
+  .metaInner {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .sectionInner {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .sectionLabel {
+    font-size: 2rem;
+  }
+
+  .statRow {
+    gap: 2.5rem;
+  }
+
+  .scaleRow {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .metaInner {
+    grid-template-columns: 1fr;
+  }
+
+  .statRow {
+    flex-direction: column;
+    gap: 2rem;
+  }
+}

@@ -7,7 +7,7 @@ import styles from "./Header.module.css";
 
 const workDropdown = [
   { label: "Disney", href: "/work/disney" },
-  // { label: "BitPay", href: "/work/bitpay" },
+  { label: "BitPay", href: "/work/bitpay" },
 ];
 
 export default function Header() {

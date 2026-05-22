@@ -4,8 +4,8 @@ import heroStyles from "@/components/Hero/Hero.module.css";
 import styles from "./page.module.css";
 
 const featured = [
-  { label: "Baymax CMS", sub: "Disney", href: "/work/disney/baymax" },
-  { label: "Employee Wellness", sub: "Disney", href: "/work/disney/employee-wellness" },
+  { label: "Disney", href: "/work/disney" },
+  { label: "BitPay", href: "/work/bitpay" },
 ];
 
 export default function Home() {
@@ -18,9 +18,8 @@ export default function Home() {
       <section className={styles.content}>
         <h2 className={styles.sectionHeading}>Featured Work</h2>
         <div className={styles.grid}>
-          {featured.map(({ label, sub, href }) => (
+          {featured.map(({ label, href }) => (
             <Link key={href} href={href} className={styles.card}>
-              <span className={styles.cardSub}>{sub}</span>
               <span className={styles.cardTitle}>{label}</span>
             </Link>
           ))}

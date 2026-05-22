@@ -32,6 +32,7 @@
   align-items: center;
   justify-content: center;
   height: 280px;
+  padding: 2rem;
   border: 1px solid rgba(128, 128, 128, 0.2);
   transition: border-color 0.2s, background 0.2s;
   cursor: pointer;
@@ -46,4 +47,5 @@
   font-family: var(--font-kranky);
   font-size: clamp(2rem, 4vw, 3rem);
   letter-spacing: 0.02em;
+  text-align: center;
 }
