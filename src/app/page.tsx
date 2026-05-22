@@ -5,7 +5,7 @@ import styles from "./page.module.css";
 
 const featured = [
   { label: "Baymax CMS", sub: "Disney", href: "/work/disney/baymax" },
-  { label: "Website", sub: "BitPay", href: "/work/bitpay/website" },
+  { label: "Employee Wellness", sub: "Disney", href: "/work/disney/employee-wellness" },
 ];
 
 export default function Home() {
