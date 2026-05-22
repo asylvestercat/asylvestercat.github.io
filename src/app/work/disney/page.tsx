@@ -4,9 +4,10 @@ import styles from "../../work/page.module.css";
 export const metadata = { title: "Disney — Work" };
 
 const projects = [
-  { label: "Baymax CMS", href: "/work/disney/baymax" },
-  { label: "Walt Disney Archives", href: "/work/disney/archives" },
-  { label: "Employee Wellness", href: "/work/disney/employee-wellness" },
+  { label: "Custom CMS", href: "/work/disney/baymax" },
+  { label: "Museum Audio Guide", href: "/work/disney/museum-audio-guide" },
+  { label: "Employee Wellness Web App", href: "/work/disney/employee-wellness" },
+  { label: "Walt Disney Archives Website", href: "/work/disney/archives" },
   { label: "HTML Emails", href: "/work/disney/html-emails" },
 ];
 
