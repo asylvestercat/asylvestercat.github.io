@@ -6,7 +6,7 @@ export default function Footer() {
       <div className={styles.inner}>
         <div className={styles.resumeBlock}>
           <p className={styles.resumeLabel}>Check out my resume</p>
-          <a href="/resume.pdf" download className={styles.downloadBtn}>
+          <a href="/Anna_Sylvester_Resume_052026.pdf" download className={styles.downloadBtn}>
             Download
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
               <path d="M12 16l-5-5h3V4h4v7h3l-5 5zm-7 4h14v-2H5v2z"/>

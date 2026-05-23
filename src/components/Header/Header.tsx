@@ -142,12 +142,12 @@ export default function Header() {
             </div>
           </div>
 
-          <Link
-            href="/play"
-            className={`${styles.mobileLink} ${pathname === "/play" ? styles.active : ""}`}
-          >
-            PLAY
-          </Link>
+          {/*<Link*/}
+          {/*  href="/play"*/}
+          {/*  className={`${styles.mobileLink} ${pathname === "/play" ? styles.active : ""}`}*/}
+          {/*>*/}
+          {/*  PLAY*/}
+          {/*</Link>*/}
 
           <Link
             href="/about"

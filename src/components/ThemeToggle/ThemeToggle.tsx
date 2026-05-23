@@ -1,15 +1,17 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import styles from "./ThemeToggle.module.css";
 
 export default function ThemeToggle() {
   const [theme, setTheme] = useState<"light" | "dark">(() => {
     if (typeof window === "undefined") return "light";
-    const stored = localStorage.getItem("theme") as "light" | "dark" | null;
-    if (stored) return stored;
-    return window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+    return (localStorage.getItem("theme") as "light" | "dark" | null) ?? "light";
   });
+
+  useEffect(() => {
+    document.documentElement.setAttribute("data-theme", theme);
+  }, [theme]);
 
   function toggle() {
     const next = theme === "dark" ? "light" : "dark";
